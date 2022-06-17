@@ -1,0 +1,106 @@
+id: IE6B6FAD4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:26:01.251997'
+last_modified: '2022-06-17T11:26:01.252002'
+parser: null
+source_metadata:
+  title: Calling the Guru from Afar
+  language: fr
+  description: 'Devotional texts belonging to the genre of Calling the Guru from Afar
+    (bla ma rgyang ''bod):'
+  volume:
+    fCC04:
+      title: Spontaneous Advice Connected with a Prayer
+      base_file: fCC04.txt
+      order: 1
+      parent: Advice
+    f8A3A:
+      title: 'The Excellent Path of Supreme Great Bliss: A Prayer for Calling the
+        Guru from Afar'
+      base_file: f8A3A.txt
+      order: 2
+      parent: Prayers
+    f5600:
+      title: Calling the Guru From Afar
+      base_file: f5600.txt
+      order: 3
+      parent: Prayers
+    fAB80:
+      title: 'Nectar Shower of Blessings: A Song of Yearning Devotion Recalling the
+        Everpresent Gurus'
+      base_file: fAB80.txt
+      order: 4
+      parent: Prayers
+    fC1CE:
+      title: 'Spontaneous Song of the Genuine Nature: A Prayer of Calling the Guru
+        from Afar'
+      base_file: fC1CE.txt
+      order: 5
+      parent: Prayers
+    fAEA3:
+      title: A Song of Calling the Guru from Afar
+      base_file: fAEA3.txt
+      order: 6
+      parent: Prayers
+    fCA55:
+      title: 'Calling the Guru From Afar: A Prayer to Pierce the Heart with Devotion'
+      base_file: fCA55.txt
+      order: 7
+      parent: Prayers
+    f3ABA:
+      title: 'An Envoy for Swiftly Invoking the Blessings of Definitive Meaning: Calling
+        the Great Omniscient Jonangpa from Afar'
+      base_file: f3ABA.txt
+      order: 8
+      parent: Prayers
+    f2C00:
+      title: 'Calling the Guru from Afar: A Prayer to Jigme Lingpa'
+      base_file: f2C00.txt
+      order: 9
+      parent: Prayers
+    fAA01:
+      title: 'Dispelling the Anguish of Existence and Quiescence: A Prayer of Calling
+        the Guru from Afar'
+      base_file: fAA01.txt
+      order: 10
+      parent: Prayers
+    f548B:
+      title: Prayer and Call from Afar to the Great Omniscient One
+      base_file: f548B.txt
+      order: 11
+      parent: Prayers
+    f1B7B:
+      title: 'The Hook of Compassion: Calling the Guru from Afar'
+      base_file: f1B7B.txt
+      order: 12
+      parent: Prayers
+    fF9B3:
+      title: 'The Rain of Wisdom Blessings: A Song of Prayer to the Guru'
+      base_file: fF9B3.txt
+      order: 13
+      parent: Prayers
+    f8209:
+      title: 'Gyang Lu: A Song of Calling from Afar'
+      base_file: f8209.txt
+      order: 14
+      parent: Prayers
+    f0970:
+      title: 'Luminous Clouds of Spontaneous Song: A Prayer to Call the Guru from
+        Afar'
+      base_file: f0970.txt
+      order: 15
+      parent: Prayers
+    f581B:
+      title: Calling the Guru from Afar
+      base_file: f581B.txt
+      order: 16
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
